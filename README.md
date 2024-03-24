@@ -15,7 +15,18 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-
+```
+/*
+Program to find the distance between two points.
+Developed by: Baudhigan D
+RegisterNumber: 212223230028
+def circulate():
+   a=eval(input())
+   x=int(input())
+   print("After circulating the values are: {}".format(a[x:]+a[:x]))
+*/
+```
 ## Output:
+![Pyhton Ex 2](https://github.com/baudhigan/Circulate-the-values-of-N-variables/assets/151921158/f2b2cf4b-650b-4e1c-9dbd-38676bfcb11c)
 
 ## Result:
