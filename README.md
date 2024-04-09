@@ -18,7 +18,7 @@ Using the slicing concept rotate the list
 ```
 /*
 Program to find the distance between two points.
-Developed by: Baudhigan D
+Developed by: BAUDHIGAN D
 RegisterNumber: 212223230028
 def circulate():
    a=eval(input())
