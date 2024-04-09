@@ -27,6 +27,6 @@ def circulate():
 */
 ```
 ## Output:
-![Pyhton Ex 2](https://github.com/baudhigan/Circulate-the-values-of-N-variables/assets/151921158/f2b2cf4b-650b-4e1c-9dbd-38676bfcb11c)
+![image](https://github.com/baudhigan/Circulate-the-values-of-N-variables/assets/151921158/3388397b-f605-4f93-906a-31c3dc599054)
 
 ## Result:
